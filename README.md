@@ -25,5 +25,5 @@ A powerful and feature-rich network scanner built in Python, designed for ethica
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/NetworkScanner.git
+   git clone https://github.com/RikDecan/NetworkScanner.git
    cd NetworkScanner
